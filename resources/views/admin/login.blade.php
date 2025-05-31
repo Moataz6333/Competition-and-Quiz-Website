@@ -38,7 +38,7 @@
 
                     <button type="submit">Login</button>
                 </form>
-                <p>Want to be an admin? / <a href="mailto:muhamedmourad23@gmail.com">Register</a></p>
+               
             </div>
             
           </div>

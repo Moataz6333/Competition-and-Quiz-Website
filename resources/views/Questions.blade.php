@@ -152,61 +152,7 @@
 
 
 
-        <footer>
-            <div class="row p-3" style="margin: 0;">
-                <div class="col-lg-4 col-md-5 col-sm-11 contactUs ">
-                    <img src="{{asset('./images/logo.png')}}" alt="">
-                    <div class="contact">
-                        <h2>Contact us : 
-                            <a href="https://www.linkedin.com/company/ebc-engineering-bridge-competition/" target="_blank">
-                                <i class="fab fa-linkedin"></i>
-                            </a>
-                             <a href="https://www.facebook.com/cwtebc?mibextid=ZbWKwL" target="_blank">
-                            <i class=" first fab fa-facebook"></i>
-                        </a>
-                        
-                        <a href="https://youtube.com/@engineeringbridgecompetiti7508?si=XPLHEI0YBz7TFkAk" target="_blank">
-                            <i class="fab fa-youtube"></i>
-                        </a>
-                        
-                      </h2>
-                      <p>
-                        The official website for ESC competition introduced by EBC team from faculty of engineering, Alexandria university.
-                      </p>
-                    </div>
-        
-                </div>
-                <hr>
-                <div class="col-lg-4 col-md-5 col-sm-11 contactUs d-flex justify-content-center">
-                    <div class="contact">
-                        <h2 class="text-center">Academin supervisors
-                      </h2>
-                      <p class="text-center" >
-                        Eng. Mohamed Saad , Eng. Mohamed Galal
-                      </p>
-                    </div>
-        
-                </div>
-                <hr>
-        
-                <div class="col-lg-4 col-md-5 col-sm-11 contactUs d-flex justify-content-center">
-                  
-                    <div class="contact">
-                        <h2 class="text-center">Our Sponsor
-                      </h2>
-                      <div class="d-flex justify-content-center" style="gap: 16px; flex-wrap: wrap;">
-                        <img src="{{asset('./images/s1.png')}}" alt="" style="width: 61.15px; height: 45px;">
-                        <img src="{{asset('./images/s2.png')}}" alt="" style="width: 61.15px; height: 45px;">
-                        <img src="{{asset('./images/s3.png')}}" alt="" style="width: 45px; height: 45px;">
-                      </div>
-                    </div>
-        
-                </div>
-        
-            </div>
-        
-            
-        </footer>
+       
         
         
         

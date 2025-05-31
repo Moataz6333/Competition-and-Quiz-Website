@@ -22,7 +22,7 @@ class ResultController extends Controller
         
         $date = new \DateTime($dateString);
         
-        $date->modify('+' . ceil( $test->period / 2) . ' minutes');
+        // $date->modify('+' . ceil( $test->period / 2) . ' minutes');
        
         $timer = $date->format('F d, Y h:i:s A');
         // Get the current date and time
